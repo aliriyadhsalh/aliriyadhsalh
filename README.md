@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @aliriyadhsalh
+- 👀 I’m interested in creating programs that feature challenging tasks and solving complex problems.
+- 🌱 I’m currently a Full Stack Desktop Developer and learning web development to broaden my skills.
+- 💞️ I’m looking to collaborate on any projects for learning and gaining experience.
+- 📫 How to reach me: You can reach me via email at aliriyadhsalh@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m passionate about programming, enjoy playing football and swimming, and am a person who values commitment, discipline, and precision in my work.
